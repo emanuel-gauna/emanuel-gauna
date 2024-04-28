@@ -1,5 +1,5 @@
 ### ¡Hola! Soy Emanuel Gauna 👋
-##¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web Full Stack con experiencia en tecnologías como Node.js y QA testing. 
+## ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web Full Stack con experiencia en tecnologías como Node.js y QA testing. 
 
 Actualmente, estoy ampliando mis habilidades aprendiendo el lenguaje Python y explorando los servicios de AWS.
 
@@ -22,9 +22,9 @@ Servicios de AWS
 
 📫 Cómo contactarme:
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/emanuel-gauna/).
- enviarme un correo electrónico a [Gmail] (lemagauna@gmail.com)
+ enviarme un correo electrónico a [Gmail](lemagauna@gmail.com)
 
 ⚡ Datos curiosos:
-¡Me apasiona seguir aprendiendo y explorando nuevas tecnologías! Cuando no estoy codificando, me gusta [creacion de APIS] y [QA Automation].
+¡Me apasiona seguir aprendiendo y explorando nuevas tecnologías! Cuando no estoy codificando, me gusta [creacion de APIS]()  y [QA Automation]().
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, ¡no dudes en contactarme!
