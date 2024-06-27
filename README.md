@@ -1,5 +1,5 @@
 ### ¡Hola! Soy Emanuel Gauna 👋
-## ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web Full Stack con experiencia en tecnologías como Node.js y QA testing. 
+## ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web Full Stack con experiencia en tecnologías como React, Node.js, Python y QA testing. 
 
 Actualmente, estoy ampliando mis habilidades aprendiendo el lenguaje Python y explorando los servicios de AWS.
 
